@@ -46,4 +46,3 @@ const todoList = {
        this.items[index].completed = true
     },
   }
-  todoList.printAll()
